@@ -1,36 +1,31 @@
 # LoginPageJspServlets
 <table>
   <tr>
-    <td><img src="images/login.png" alt="Proje Örneği" width="1000"/></td> 
-    
+    <td><img src="images/login.png" alt="Proje Örneği" width="600"/></td> 
+    <td><img src="images/register.png" alt="Proje Örneği" width="600"/></td>
+   
   </tr>
   <tr>
-   <td><img src="images/register.png" alt="Proje Örneği" width="1000"/></td>
-    
-  </tr>
-  <tr>
-  <td><img src="images/firstPage.png" alt="Proje Örneği" width="1000" style="align-items:center"/></td>
-
-    
+    <td><img src="images/firstPage.png" alt="Proje Örneği" width="600"/></td>
+     <td><img src="images/adminpanel.png" alt="Proje Örneği" width="600"/></td>
   </tr>
   
+ 
 </table>
 
 
 
 
-Bu proje, Java programlama dili ve Servlet teknolojisi kullanılarak geliştirilmiş bir web uygulamasını içermektedir. Uygulama, kullanıcıların kayıt olabileceği ve ardından giriş yapabileceği ve banka işlemlerini yapabileceği basit bir sistem sunar. İşte projenin temel özellikleri:
+Bu proje, Java programlama dili ve Servlet teknolojisi kullanılarak geliştirilmiş bir web uygulamasını içermektedir. Uygulama, kullanıcıların kayıt olabileceği ve ardından giriş yapabileceği ve banka işlemlerini yapabileceği  ve Admin paneli ile kişi bilgilerini tutabileceği basit bir sistem sunar. İşte projenin temel özellikleri:
 
 
 ## Özellikler
 
 - Kullanıcı Kaydı (Register): Kullanıcılar, ad, soyad, e-posta ve şifre gibi temel bilgileri girerek kayıt olabilirler. Bu bilgiler veritabanında saklanır ve giriş yapabilmeleri için gereklidir.Bu işlem yapılır ve login sayfasına yönlendirilir.
-
 - Kullanıcı Girişi (Login): Kayıtlı kullanıcılar, giriş yapabilmek için kullanıcı adı (e-posta) ve şifrelerini kullanabilirler. Giriş yapmayan kullanıcılar, özel alanlara erişim izni alamazlar ve uyarı mesajı alırlar.Ve sisteme giriş yapıldığında kullancı adı dinamik olarak çekilir ve gösterilir.
-
+- Admin Panel : Admin kayıtlı kişilerin listesini görebililir müşterilerin isim soyisim kullanıcı adı değerlerine ulaşabilir para miktarı ve şifre değerlerine ulaşamaz.
 - Veritabanı İletişimi: Proje, veritabanı işlemleri için Java Database Connectivity (JDBC) kullanır ve kullanıcı bilgilerini güvenli bir şekilde saklar.Bu projede MySQL database kullanılmıştır
-
-- Kullanıcı Dostu Arayüz: Web sayfası kullanıcı dostu bir arayüze sahiptir ve kolayca gezinilebilir.Html,Css ve Bootstrap kullanılmıştır
+- Kullanıcı Dostu Arayüz: Web sayfası kullanıcı dostu bir arayüze sahiptir ve kolayca gezinilebilir.Html,Css ve Bootstrap kullanılmıştır.
 
 
 ## Gereksinimler
