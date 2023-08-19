@@ -1,13 +1,20 @@
 # LoginPageJspServlets
 <table>
   <tr>
-    <td><img src="images/login.png" alt="Proje Örneği" width="600"/></td> 
-    <td><img src="images/register.png" alt="Proje Örneği" width="600"/></td>
+    <td><img src="images/login.png" alt="Proje Örneği" width="1000"/></td> 
+   
+   
+  </tr>
+   <tr>
+   <td><img src="images/register.png" alt="Proje Örneği" width="1000"/></td>
+   
+  </tr>
+   <tr>
+   <td><img src="images/firstPage.png" alt="Proje Örneği" width="1000"/></td>
    
   </tr>
   <tr>
-    <td><img src="images/firstPage.png" alt="Proje Örneği" width="600"/></td>
-     <td><img src="images/adminpanel.png" alt="Proje Örneği" width="600"/></td>
+     <td><img src="images/adminpanel.png" alt="Proje Örneği" width="1000"/></td>
   </tr>
   
  
